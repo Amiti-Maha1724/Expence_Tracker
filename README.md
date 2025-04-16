@@ -1,1 +1,2 @@
 # Expence_Tracker
+# this is a expense tracker in which App.js and ExpenseTracker.js contains the main code
